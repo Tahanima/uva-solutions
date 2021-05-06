@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @see <a href="https://onlinejudge.org/external/15/1585.pdf">Problem Statement</a>
  */
 public class _1585 {
-    static int getScore(String testResult) {
+    public static int getScore(String testResult) {
         int score = 0, countOfCorrect = 0;
 
         for (char ch : testResult.toCharArray()) {

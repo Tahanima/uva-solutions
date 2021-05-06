@@ -22,6 +22,7 @@ public class _13130 {
 
         return answer.toString();
     }
+
     public static void main (String[] args) {
         Scanner input = new Scanner(System.in);
         int cases = input.nextInt();
