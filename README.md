@@ -2,10 +2,13 @@
 
 This repository contains my solutions to programming problems of the [UVa online-judge](https://onlinejudge.org/).
 
+<hr>
+
 <details>
     <summary><b>Problem Set Volumes (100...1999)</b></summary>
-    <details style="padding-left: 2em;">
-        <summary>Volume 15</summary>
+    <br>
+    <details>
+        <summary><b>Volume 15</b></summary>
         <table>
             <tr>
                 <th>Problem Title</th>
@@ -19,10 +22,13 @@ This repository contains my solutions to programming problems of the [UVa online
     </details>
 </details>
 
+<hr>
+
 <details>
     <summary><b>Contest Volumes (10000...)</b></summary>
-    <details style="padding-left: 2em;">
-        <summary>Volume 131</summary>
+    <br>
+    <details>
+        <summary><b>Volume 131</b></summary>
         <table>
             <tr>
                 <th>Problem Title</th>
@@ -35,3 +41,5 @@ This repository contains my solutions to programming problems of the [UVa online
         </table>
     </details>
 </details>
+
+<hr>
