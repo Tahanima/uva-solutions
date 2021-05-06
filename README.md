@@ -28,6 +28,19 @@ This repository contains my solutions to programming problems of the [UVa online
     <summary><b>Contest Volumes (10000...)</b></summary>
     <br>
     <details>
+        <summary><b>Volume 126</b></summary>
+        <table>
+            <tr>
+                <th>Problem Title</th>
+                <th>Solution</th>
+            </tr>
+            <tr>
+                <td><a href="https://onlinejudge.org/external/126/12658.pdf">12658 - Character Recognition?</a></td>
+                <td><a href="/src/main/java/io/github/tahanima/contestvolumes/volume126/_12658.java">[Link]</a></td>
+            </tr>
+        </table>
+    </details>
+    <details>
         <summary><b>Volume 131</b></summary>
         <table>
             <tr>
