@@ -8,6 +8,19 @@ This repository contains my solutions to programming problems of the [UVa online
     <summary><b>Problem Set Volumes (100...1999)</b></summary>
     <br>
     <details>
+        <summary><b>Volume 12</b></summary>
+        <table>
+            <tr>
+                <th>Problem Title</th>
+                <th>Solution</th>
+            </tr>
+            <tr>
+                <td><a href="https://onlinejudge.org/external/12/1203.pdf">1203 - Argus</a></td>
+                <td><a href="/src/main/java/io/github/tahanima/problemsetvolumes/volume12/_1203.java">[Link]</a></td>
+            </tr>
+        </table>
+    </details>
+    <details>
         <summary><b>Volume 15</b></summary>
         <table>
             <tr>
