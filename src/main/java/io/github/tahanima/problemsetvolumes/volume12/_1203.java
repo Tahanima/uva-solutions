@@ -60,7 +60,7 @@ public class _1203 {
             pq.poll();
 
             answer.append(current.idNumber).append("\n");
-            pq.add(new Pair(current.idNumber, current.basePeriod,current.nextPeriod + current.basePeriod));
+            pq.add(new Pair(current.idNumber, current.basePeriod, current.nextPeriod + current.basePeriod));
         }
 
         return answer.toString();
