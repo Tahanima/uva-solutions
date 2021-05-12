@@ -41,6 +41,32 @@ This repository contains my solutions to programming problems of the [UVa online
     <summary><b>Contest Volumes (10000...)</b></summary>
     <br>
     <details>
+        <summary><b>Volume 108</b></summary>
+        <table>
+            <tr>
+                <th>Problem Title</th>
+                <th>Solution</th>
+            </tr>
+            <tr>
+                <td><a href="https://onlinejudge.org/external/108/10887.pdf">10887 - Concatenation of Languages</a></td>
+                <td><a href="/src/main/java/io/github/tahanima/contestvolumes/volume108/_10887.java">[Link]</a></td>
+            </tr>
+        </table>
+    </details>
+    <details>
+        <summary><b>Volume 119</b></summary>
+        <table>
+            <tr>
+                <th>Problem Title</th>
+                <th>Solution</th>
+            </tr>
+            <tr>
+                <td><a href="https://onlinejudge.org/external/119/11995.pdf">11995 - I Can Guess the Data Structure!</a></td>
+                <td><a href="/src/main/java/io/github/tahanima/contestvolumes/volume119/_11995.java">[Link]</a></td>
+            </tr>
+        </table>
+    </details>
+    <details>
         <summary><b>Volume 126</b></summary>
         <table>
             <tr>
