@@ -54,6 +54,32 @@ This repository contains my solutions to programming problems of the [UVa online
         </table>
     </details>
     <details>
+        <summary><b>Volume 110</b></summary>
+        <table>
+            <tr>
+                <th>Problem Title</th>
+                <th>Solution</th>
+            </tr>
+            <tr>
+                <td><a href="https://onlinejudge.org/external/110/11062.pdf">11062 - Andy’s Second Dictionary</a></td>
+                <td><a href="/src/main/java/io/github/tahanima/contestvolumes/volume110/_11062.java">[Link]</a></td>
+            </tr>
+        </table>
+    </details>
+    <details>
+        <summary><b>Volume 113</b></summary>
+        <table>
+            <tr>
+                <th>Problem Title</th>
+                <th>Solution</th>
+            </tr>
+            <tr>
+                <td><a href="https://onlinejudge.org/external/113/11308.pdf">11308 - Bankrupt Baker</a></td>
+                <td><a href="/src/main/java/io/github/tahanima/contestvolumes/volume113/_11308.java">[Link]</a></td>
+            </tr>
+        </table>
+    </details>
+    <details>
         <summary><b>Volume 119</b></summary>
         <table>
             <tr>
@@ -67,6 +93,19 @@ This repository contains my solutions to programming problems of the [UVa online
         </table>
     </details>
     <details>
+        <summary><b>Volume 124</b></summary>
+        <table>
+            <tr>
+                <th>Problem Title</th>
+                <th>Solution</th>
+            </tr>
+            <tr>
+                <td><a href="https://onlinejudge.org/external/124/12459.pdf">12459 - Bees’ ancestors</a></td>
+                <td><a href="/src/main/java/io/github/tahanima/contestvolumes/volume124/_12459.java">[Link]</a></td>
+            </tr>
+        </table>
+    </details>
+    <details>
         <summary><b>Volume 126</b></summary>
         <table>
             <tr>
@@ -76,6 +115,19 @@ This repository contains my solutions to programming problems of the [UVa online
             <tr>
                 <td><a href="https://onlinejudge.org/external/126/12658.pdf">12658 - Character Recognition?</a></td>
                 <td><a href="/src/main/java/io/github/tahanima/contestvolumes/volume126/_12658.java">[Link]</a></td>
+            </tr>
+        </table>
+    </details>
+    <details>
+        <summary><b>Volume 127</b></summary>
+        <table>
+            <tr>
+                <th>Problem Title</th>
+                <th>Solution</th>
+            </tr>
+            <tr>
+                <td><a href="https://onlinejudge.org/external/127/12798.pdf">12798 - Handball</a></td>
+                <td><a href="/src/main/java/io/github/tahanima/contestvolumes/volume127/_12798.java">[Link]</a></td>
             </tr>
         </table>
     </details>
